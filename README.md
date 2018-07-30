@@ -2,4 +2,5 @@
 Chatbot Automovilismo
 
 Elaborado: Daniel Patricio Peñarreta
-UTPL
+Proyecto para Sistemas Basados en conocimiento 2018
+Universidad: UTPL
