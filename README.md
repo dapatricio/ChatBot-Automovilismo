@@ -1,4 +1,5 @@
 # ChatBot-Automovilismo
 Chatbot Automovilismo
 
-Elaborado: Daniel PAtricio Peñarreta
+Elaborado: Daniel Patricio Peñarreta
+UTPL

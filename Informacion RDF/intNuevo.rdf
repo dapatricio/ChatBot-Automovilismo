@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:schema="http://schema.org/">
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Automovilismo">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Rally"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Aceleracion"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Turismo"/>
+    <rdfs:label xml:lang="es">Automovilismo</rdfs:label>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Monoplazas">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Automovilismo"/>
+    <rdfs:label xml:lang="es">Monoplazas</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#catIndycar"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#catFormulaE"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#catFormula1">
+    <rdfs:label xml:lang="es">Categoria Formula 1</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Formula1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Formula2"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#Formula3"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#catIndycar"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Formula1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <rdfs:label xml:lang="es">Formula 1</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosCampeonesF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#CircuitosF1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula2"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula3"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#EquiposF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Formula1"/>
+    <rdfs:label xml:lang="es">Equipos Formula 1</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosEquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NacionalidadEquiposF1"/>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EscuderiaFerrari">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <rdfs:label>Team Ferrari</rdfs:label>
+    <skos:prefLabel>TeamFerrari</skos:prefLabel>
+    <schema:nationality>
+      <rdf:Description rdf:about="dbo:Italy">
+        <rdfs:label>Italia</rdfs:label>
+      </rdf:Description>
+    </schema:nationality>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EscuderiaMercedes">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <rdfs:label>Team Mercedes</rdfs:label>
+    <skos:prefLabel>TeamMercedes</skos:prefLabel>
+    <schema:nationality rdf:resource="dbo:Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EscuderiaRedBull">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <rdfs:label>Team Red Bull</rdfs:label>
+    <skos:prefLabel>TeamRedBull</skos:prefLabel>
+    <schema:nationality rdf:resource="dbo:Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EscuderiaHass">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <rdfs:label>Team Hass</rdfs:label>
+    <skos:prefLabel>TeamHass</skos:prefLabel>
+    <schema:nationality rdf:resource="dbo:UnitedStates"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EscuderiaMcLaren">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombreEquiposF1"/>
+    <rdfs:label>Team McLaren</rdfs:label>
+    <skos:prefLabel>TeamMcLaren</skos:prefLabel>
+    <schema:nationality rdf:resource="dbo:England"/>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#NombreEquiposF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <rdfs:label xml:lang="es">Nombre Equipos de Formula 1</rdfs:label>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#PilotosEquiposF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <rdfs:label xml:lang="es">Nombre Pilotos de Formula 1</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NacionalidadPilotosF1"/>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#SebastianVettel">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaFerrari"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1Campeones"/>
+    <rdfs:label>Sebastian Vettel</rdfs:label>
+    <schema:nationality rdf:resource="dbo:Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#FernandoAlonso">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaMcLaren"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1Campeones"/>
+    <rdfs:label>Fernando Alonso</rdfs:label>
+    <schema:nationality>
+      <rdf:Description rdf:about="dbo:Spain">
+        <rdfs:label>España</rdfs:label>
+      </rdf:Description>
+    </schema:nationality>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#KimmiRaikkonen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaFerrari"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1Campeones"/>
+    <rdfs:label>Kimmi Raikkonen</rdfs:label>
+    <schema:nationality rdf:resource="dbo:Finland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#LuisHamilton">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaMercedes"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1Campeones"/>
+    <rdfs:label>Luis Hamilton</rdfs:label>
+    <schema:nationality rdf:resource="dbo:England"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#DanielRichiardo">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaRedBull"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <rdfs:label>Daniel Richiardo</rdfs:label>
+    <schema:nationality rdf:resource="dbo:Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#MaxVerstapen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaRedBull"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <rdfs:label>Max Verstapen</rdfs:label>
+    <schema:nationality rdf:resource="dbo:Holand"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#KevinMagnussen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaHass"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <rdfs:label>Kevin Magnussen</rdfs:label>
+    <schema:nationality>
+      <rdf:Description rdf:about="dbo:Denmark">
+        <rdfs:label>Dinamarca</rdfs:label>
+      </rdf:Description>
+    </schema:nationality>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#RomainGrosjean">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EscuderiaHass"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1"/>
+    <rdfs:label>Romain Grosjean</rdfs:label>
+    <schema:nationality rdf:resource="dbo:France"/>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#PilotosF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosEquiposF1"/>
+    <rdfs:label xml:lang="es">Nombre pilotos de Formula 1</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosF1Campeones"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#NacionalidadPilotosF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#PilotosEquiposF1"/>
+    <rdfs:label xml:lang="es">Nacionalidad pilotos de Formula 1</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#NacionalidadPilotosF1Campeones"/>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="dbo:Germany">
+    <rdfs:label>Alemania</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="dbo:Finland">
+    <rdfs:label>Finlandia</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="dbo:England">
+    <rdfs:label>Inglaterra</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="dbo:Australia">
+    <rdfs:label>Australia</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="dbo:Holand">
+    <rdfs:label>Holanda</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="dbo:France">
+    <rdfs:label>Francia</rdfs:label>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#NacionalidadEquiposF1">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposF1"/>
+    <rdfs:label xml:lang="es">Nacionalidad Equipos de Formula 1</rdfs:label>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="dbo:UnitedStates">
+    <rdfs:label>Estados Unidos</rdfs:label>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Formula2">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <rdfs:label xml:lang="es">Formula 2</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula3"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Formula3">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <rdfs:label xml:lang="es">Formula 3</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula2"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Formula1"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#catFormulaE">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+    <rdfs:label xml:lang="es">Categoria Formula E</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#catIndycar"/>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#catIndy">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+    <rdfs:label xml:lang="es">Categoria Indy Car Series E</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#catFormula1"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#catFormulaE"/>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Rally">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Automovilismo"/>
+    <rdfs:label xml:lang="es">Rally</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Turismo"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Aceleracion"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRC2"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRCJunior"/>
+  </skos:Concept>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#WorldRallyChampionship">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Rally"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#WRC">
+    <rdfs:label>Campeonato Mundial de Rally</rdfs:label>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WorldRallyChampionship"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EquiposWRC">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EquipoCitroen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposWRC"/>
+    <schema:nationality rdf:resource="dbo:France"/>
+    <rdfs:label>Equipo Citroen</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#PilotosWRC">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquiposWRC"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#KissMeke">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoCitroen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:France"/>
+    <rdfs:label>Kriss Meke</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#CraigBreen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoCitroen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:France"/>
+    <rdfs:label>Craig Breen</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#ScottMartin">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoCitroen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:Germany"/>
+    <rdfs:label>Scott Martin</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EquipoVolksWagen">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+    <schema:nationality rdf:resource="dbo:Germany"/>
+    <rdfs:label>Equipo WolksWagen</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#SebastianOgier">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoVolksWagen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:France"/>
+    <rdfs:label>Sebastian Oiger</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#JariMattyLatvala">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoVolksWagen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:Finland"/>
+    <rdfs:label>Jari Matty Latvla</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#MikkaAnttila">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoVolksWagen"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:Germany"/>
+    <rdfs:label>Mikka Anttila</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#EquipoFord">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+    <schema:nationality rdf:resource="dbo:UnitedStates"/>
+    <rdfs:label>Equipo Ford</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#OttTanak">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoFord"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:Finland"/>
+    <rdfs:label>Ott Tanak</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#RaigoMolder">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#EquipoFord"/>
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#NombrePilotosWRC"/>
+    <schema:nationality rdf:resource="dbo:Holand"/>
+    <rdfs:label>Raigo Molder</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#WRC2">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WorldRallyChampionship"/>
+    <rdfs:label>Campeonato Mundial de Rally 2</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#WRCJunior"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#WRCJunior">
+    <skos:narrower rdf:resource="http://www.w3.org/2004/02/skos/core#WorldRallyChampionship"/>
+    <rdfs:label>Campeonato Mundial de Rally Junior</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#WRC2"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#WRC"/>
+  </rdf:Description>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Aceleracion">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Automovilismo"/>
+    <rdfs:label xml:lang="es">Aceleracion</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Turismo"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Rally"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+  </skos:Concept>
+
+  <skos:Concept rdf:about="http://www.w3.org/2004/02/skos/core#Turismo">
+    <skos:broader rdf:resource="http://www.w3.org/2004/02/skos/core#Automovilismo"/>
+    <rdfs:label xml:lang="es">Turismo</rdfs:label>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Aceleracion"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Rally"/>
+    <skos:related rdf:resource="http://www.w3.org/2004/02/skos/core#Monoplazas"/>
+  </skos:Concept>
+
+</rdf:RDF>

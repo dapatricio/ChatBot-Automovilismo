@@ -1,0 +1,50 @@
+seleccionar nombre de pilotos F1
+Select ?Nombre
+where
+{
+?Pilotos skos:narrower skos:PilotosF1 .
+?Pilotos rdfs:label ?Nombre .
+}
+
+	seleccionar nombre de equipos F1
+Select ?Nombre
+where
+{
+?EquiposF1 skos:narrower skos:NombreEquiposF1 .
+?EquiposF1 rdfs:label ?Nombre .
+}
+
+	Seleccionar pilotos de equipos de F1
+select ?Nombre
+where
+{
+?EquiposF1 skos:narrower skos:NombreEquiposF1 .
+?EquiposF1 rdfs:label ?NomEquiposF1 .
+?Pilotos skos:narrower ?EquiposF1 .
+?Pilotos rdfs:label ?Nombre .
+Filter regex(?NomEquiposF1, "Mercedes", "i")
+}
+
+	Seleccionar las categorias de automovilismo
+select ?Nombre
+where
+{
+skos:Automovilismo skos:narrower ?categorias .
+?categorias skos:prefLabel ?Nombre .
+}
+
+	Seleccionar categorias de pregunta cliente
+select ?Nombre
+where
+{
+skos:Rally skos:narrower ?categorias .
+?categorias rdfs:label ?Nombre .
+}
+
+	Seleccionar los pilotos campeones
+Select ?Nombre
+where
+{
+?Pilotos skos:related skos:PilotosF1Campeones .
+?Pilotos rdfs:label ?Nombre .
+}
