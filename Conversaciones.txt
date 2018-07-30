@@ -1,0 +1,27 @@
+Interacciones entre el Chatbot y el Usuario:
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 09:54:56 2018 Este es el mensaje del usuario:
+nada muy bien todo
+Mon Jul 30 09:54:56 2018 Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 09:55:01 2018 Este es el mensaje del usuario:
+hola
+Mon Jul 30 09:55:01 2018 Este es el mensaje del ChatBot:
+['Buenos dias, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 09:55:17 2018 Este es el mensaje del usuario:
+nada todo bien
+Mon Jul 30 09:55:17 2018 Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------

@@ -1,0 +1,1807 @@
+{
+  "entities": {
+    "autos": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "Pilotos formula 1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "pilotos f1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "pilotos formula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "pilotos de f1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "pilotos de formula 1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "pilotos de formula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "conductores de f1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "conductoresf1"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "campeonesf1": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "campeones formula 1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeones f1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeones formula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "formula 1 campeones"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "f1 campeones"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeon actual"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeones actuales"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeones"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "campeon"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "categorias": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "categorias de automovilismo"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "categorias"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "categorias de autos"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "categorias de carrera"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "categorias de auto"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "categorias de automovilismos"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "conductorGrupoF1": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [
+            " McLaren", 
+            " mclaren", 
+            " ream mclaren"
+          ], 
+          "value": "TeamMcLaren"
+        }, 
+        {
+          "synonyms": [
+            " Ferrari", 
+            " ferrari", 
+            " team ferrari"
+          ], 
+          "value": "TeamFerrari"
+        }, 
+        {
+          "synonyms": [
+            " Mercedes", 
+            " mercedes", 
+            " mercedes benz", 
+            " team mercedes"
+          ], 
+          "value": "TeamMercedes"
+        }, 
+        {
+          "synonyms": [
+            " Red Bull", 
+            " red bull", 
+            " Red bull", 
+            "  red Bull", 
+            " team red bull", 
+            " team redbull"
+          ], 
+          "value": "TeamRedBull"
+        }, 
+        {
+          "synonyms": [
+            " Hass", 
+            " hass", 
+            " hass Ferrari", 
+            " Has ferrari", 
+            " team hass"
+          ], 
+          "value": "TeamHass"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "despedida": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "chao"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "nos vemos"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "hasta luego"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "hasta otro rato"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "hasta mas tarde"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "finalizar"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "chau"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "bye"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "adios"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "despedida"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "despedirse"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "equiposf1": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "EquiposF1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equipos formula 1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equipos formula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equipos de formula 1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equipos de F1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "aquipos de formula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equiposformula1"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Equipos F1"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "formula1": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "pilotos": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }, 
+    "saludo": {
+      "automatically_extensible": true, 
+      "data": [
+        {
+          "synonyms": [], 
+          "value": "Hola"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Como estas"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Que mas"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Que haces"
+        }, 
+        {
+          "synonyms": [
+            " buenas tardes", 
+            " buenas noches"
+          ], 
+          "value": "Buenos dias"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Hay alguien ahi"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Como te va"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Que tal todo"
+        }, 
+        {
+          "synonyms": [], 
+          "value": "Disculpe una pregunta"
+        }
+      ], 
+      "use_synonyms": true
+    }, 
+    "teamF1": {
+      "automatically_extensible": true, 
+      "data": [], 
+      "use_synonyms": true
+    }
+  }, 
+  "intents": {
+    "autos": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Dime los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombres los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombre los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que pilotos son de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombrame los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que nombres tienen los "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se llaman los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes son los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes compiten en la "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Indique los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los competidores de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame el nombre de los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame quienes son los pilotos de "
+            }, 
+            {
+              "entity": "formula1", 
+              "slot_name": "formula1", 
+              "text": "formula1"
+            }
+          ]
+        }
+      ]
+    }, 
+    "campeonesf1": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Dime los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombres los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombre los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que pilotos son de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombrame los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que nombres tienen los "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se llaman los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes son los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes compiten en la "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Indique los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los competidores de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los nombres de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame el nombre de los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame quienes son los pilotos de "
+            }, 
+            {
+              "entity": "campeonesf1", 
+              "slot_name": "campeonesf1", 
+              "text": "campeonesf1"
+            }
+          ]
+        }
+      ]
+    }, 
+    "categorias": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Dime las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombre las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " hay de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " existen de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombrame las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que nombres tienen las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se llaman las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Indique los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los nombres de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame el nombre de las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame cuales son las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son las "
+            }, 
+            {
+              "entity": "categorias", 
+              "slot_name": "categorias", 
+              "text": "categorias"
+            }, 
+            {
+              "text": " de automovilismo"
+            }
+          ]
+        }
+      ]
+    }, 
+    "conductorGrupoF1": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Dime los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombres los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombre los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombrame los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que nombres tienen los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se llaman los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes son los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Indique los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los nombres de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame el nombre de los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame cuales son los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los "
+            }, 
+            {
+              "entity": "pilotos", 
+              "slot_name": "pilotos", 
+              "text": "pilotos"
+            }, 
+            {
+              "text": " del team "
+            }, 
+            {
+              "entity": "teamF1", 
+              "slot_name": "teamF1", 
+              "text": "teamF1"
+            }
+          ]
+        }
+      ]
+    }, 
+    "despedida": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "despedida", 
+              "slot_name": "despedida", 
+              "text": "despedida"
+            }
+          ]
+        }
+      ]
+    }, 
+    "equiposf1": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Dime los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dime los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Dame los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombres los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombre los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Nombrame los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Que nombres tienen los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Como se llaman los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Quienes son los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Indique los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Mencione los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Explicame los nombres de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame el nombre de los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Muestrame cuales son los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "text": "Cuales son los "
+            }, 
+            {
+              "entity": "equiposf1", 
+              "slot_name": "equiposf1", 
+              "text": "equiposf1"
+            }
+          ]
+        }
+      ]
+    }, 
+    "saludo": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }, 
+            {
+              "text": " como estas"
+            }
+          ]
+        }, 
+        {
+          "data": [
+            {
+              "entity": "saludo", 
+              "slot_name": "saludo", 
+              "text": "Hola"
+            }, 
+            {
+              "text": " que tal"
+            }
+          ]
+        }
+      ]
+    }
+  }, 
+  "language": "es"
+}

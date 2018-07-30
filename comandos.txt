@@ -1,0 +1,2 @@
+snips-nlu generate-dataset es intent_autos.txt intent_campeonesf1.txt intent_categorias.txt intent_conductorGrupoF1.txt intent_equiposf1.txt intent_saludo.txt intent_despedida.txt entity_autos.txt entity_campeonesf1.txt entity_conductorGrupoF1.txt entity_categorias.txt entity_equiposf1.txt entity_saludo.txt entity_despedida.txt > dataset.json
+python entrenamiento.py

@@ -1,0 +1,5 @@
+TeamMcLaren,McLaren,mclaren,team mclaren
+TeamFerrari,Ferrari,ferrari,team ferrari
+TeamMercedes,Mercedes,mercedes,mercedes benz,team mercedes
+TeamRedBull,Red Bull,red bull,Red bull,red Bull,team red bull,team redbull
+TeamHass,Hass,hass,hass Ferrari,Has ferrari,team hass
