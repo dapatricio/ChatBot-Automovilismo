@@ -25,3 +25,685 @@ nada todo bien
 Mon Jul 30 09:55:17 2018 Este es el mensaje del ChatBot:
 ['Dime de nuevo lo que pides']
 ------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 10:28:13 2018 Este es el mensaje del usuario:
+hola
+Mon Jul 30 10:28:13 2018 Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 10:28:41 2018 Este es el mensaje del usuario:
+hola
+Mon Jul 30 10:28:41 2018 Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 10:45:29 2018 Este es el mensaje del usuario:
+hola
+Mon Jul 30 10:45:29 2018 Este es el mensaje del ChatBot:
+['Saludos amigo, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 11:17:35 2018: Este es el mensaje del usuario:
+hola
+Mon Jul 30 11:17:35 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 11:17:57 2018: Este es el mensaje del usuario:
+dime los pilotos del equipo ferrari
+Mon Jul 30 11:17:57 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 11:18:17 2018: Este es el mensaje del usuario:
+dime los plotos del team ferrari
+Mon Jul 30 11:18:17 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 11:18:57 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Mon Jul 30 11:18:57 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:15:14 2018: Este es el mensaje del usuario:
+hola
+Mon Jul 30 12:15:14 2018: Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:15:27 2018: Este es el mensaje del usuario:
+dime el nombre de los pilotos del team ferrari
+Mon Jul 30 12:15:27 2018: Este es el mensaje del ChatBot:
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:15:39 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Mon Jul 30 12:15:39 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:15:50 2018: Este es el mensaje del usuario:
+dime los pilotos del teamFerrari
+Mon Jul 30 12:15:50 2018: Este es el mensaje del ChatBot:
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:16:16 2018: Este es el mensaje del usuario:
+como se llaman los pilotos del team ferrari
+Mon Jul 30 12:16:16 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:16:41 2018: Este es el mensaje del usuario:
+dime la categoria del automovilismo
+Mon Jul 30 12:16:41 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:17:01 2018: Este es el mensaje del usuario:
+dime los nombres de los pilotos de formula 1
+Mon Jul 30 12:17:01 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:18:04 2018: Este es el mensaje del usuario:
+hola
+Mon Jul 30 12:18:04 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:18:12 2018: Este es el mensaje del usuario:
+dime el nombre de los pilotos de formula 1
+Mon Jul 30 12:18:12 2018: Este es el mensaje del ChatBot:
+Pilotos de Equipo de Formula 1
+Nombre Pilotos de Formula 1
+Sebastian Vettel
+Fernando Alonso
+Kimmi Raikkonen
+Luis Hamilton
+Daniel Richiardo
+Max Verstapen
+Kevin Magnussen
+Romain Grosjean
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:18:21 2018: Este es el mensaje del usuario:
+dime lel nombre de los pilotos del team ferrari
+Mon Jul 30 12:18:21 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:18:35 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Mon Jul 30 12:18:35 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:22:44 2018: Este es el mensaje del usuario:
+dime las categorias del automovilismo
+Mon Jul 30 12:22:44 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:22:50 2018: Este es el mensaje del usuario:
+dime las categorias de automovilismo
+Mon Jul 30 12:22:50 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:23:07 2018: Este es el mensaje del usuario:
+dime los equipos de formula 1
+Mon Jul 30 12:23:07 2018: Este es el mensaje del ChatBot:
+Equipos Formula 1
+Escuderia Ferrari
+Team Ferrari
+Escuderia Mercedes
+Team Mercedes
+Escuderia Red Bull
+Team Red Bull
+Escuderia Hass
+Team Hass
+Escuderia McLaren
+Team McLaren
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:23:14 2018: Este es el mensaje del usuario:
+dime los pilotos del team rad bull
+Mon Jul 30 12:23:14 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:23:22 2018: Este es el mensaje del usuario:
+dime los pilotos del team red bull
+Mon Jul 30 12:23:22 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 12:23:30 2018: Este es el mensaje del usuario:
+dime los pilotos del team mclaren
+Mon Jul 30 12:23:30 2018: Este es el mensaje del ChatBot:
+Fernando Alonso
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 18:24:46 2018: Este es el mensaje del usuario:
+hola
+Mon Jul 30 18:24:46 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 18:24:54 2018: Este es el mensaje del usuario:
+dime el nombre de los pilotos de formula 1
+Mon Jul 30 18:24:54 2018: Este es el mensaje del ChatBot:
+Pilotos de Equipo de Formula 1
+Nombre Pilotos de Formula 1
+Sebastian Vettel
+Fernando Alonso
+Kimmi Raikkonen
+Luis Hamilton
+Daniel Richiardo
+Max Verstapen
+Kevin Magnussen
+Romain Grosjean
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 18:25:00 2018: Este es el mensaje del usuario:
+dime los equipos de formula 1
+Mon Jul 30 18:25:00 2018: Este es el mensaje del ChatBot:
+Equipos Formula 1
+Escuderia Ferrari
+Team Ferrari
+Escuderia Mercedes
+Team Mercedes
+Escuderia Red Bull
+Team Red Bull
+Escuderia Hass
+Team Hass
+Escuderia McLaren
+Team McLaren
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 18:25:50 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Mon Jul 30 18:25:50 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Mon Jul 30 18:25:58 2018: Este es el mensaje del usuario:
+dime las categorias de automovilismo
+Mon Jul 30 18:25:58 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:55:27 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 15:55:27 2018: Este es el mensaje del ChatBot:
+['Saludos amigo, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:55:34 2018: Este es el mensaje del usuario:
+chao
+Tue Jul 31 15:55:34 2018: Este es el mensaje del ChatBot:
+['Nos vemos amigo']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:55:41 2018: Este es el mensaje del usuario:
+hasta luego
+Tue Jul 31 15:55:41 2018: Este es el mensaje del ChatBot:
+['Adios']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:55:48 2018: Este es el mensaje del usuario:
+jkjkikj
+Tue Jul 31 15:55:48 2018: Este es el mensaje del ChatBot:
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:56:19 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 15:56:19 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:56:29 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Tue Jul 31 15:56:29 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:57:23 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 15:57:23 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:01:51 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:01:51 2018: Este es el mensaje del ChatBot:
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:02:28 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:02:28 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:02:52 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:02:52 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:04:26 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:04:26 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:04:55 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:04:55 2018: Este es el mensaje del ChatBot:
+['Buenos dias, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:06:07 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:06:07 2018: Este es el mensaje del ChatBot:
+['Buenos dias, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:06:20 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:06:20 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:06:30 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Tue Jul 31 16:06:30 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:07:05 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:07:05 2018: Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:07:13 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:07:13 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:07:19 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Tue Jul 31 16:07:19 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:08:07 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:08:07 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:08:10 2018: Este es el mensaje del usuario:
+chao
+Tue Jul 31 16:08:10 2018: Este es el mensaje del ChatBot:
+['Hasta otra ocacion']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:08:58 2018: Este es el mensaje del usuario:
+dime el nombre de los pilotos de formula 1
+Tue Jul 31 16:08:58 2018: Este es el mensaje del ChatBot:
+Pilotos de Equipo de Formula 1
+Nombre Pilotos de Formula 1
+Sebastian Vettel
+Fernando Alonso
+Kimmi Raikkonen
+Luis Hamilton
+Daniel Richiardo
+Max Verstapen
+Kevin Magnussen
+Romain Grosjean
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:10:24 2018: Este es el mensaje del usuario:
+dime los equipos de formula 1
+Tue Jul 31 16:10:24 2018: Este es el mensaje del ChatBot:
+Equipos Formula 1
+Escuderia Ferrari
+Team Ferrari
+Escuderia Mercedes
+Team Mercedes
+Escuderia Red Bull
+Team Red Bull
+Escuderia Hass
+Team Hass
+Escuderia McLaren
+Team McLaren
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:10:34 2018: Este es el mensaje del usuario:
+dime la categoria de automovilismo
+Tue Jul 31 16:10:34 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:10:42 2018: Este es el mensaje del usuario:
+dime las categorias de automovilismo
+Tue Jul 31 16:10:42 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:18:20 2018: Este es el mensaje del usuario:
+hola
+Tue Jul 31 16:18:20 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:18:27 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Jul 31 16:18:27 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:18:33 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Tue Jul 31 16:18:33 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 18:11:41 2018: Este es el mensaje del usuario:
+hola
+Thu Aug  2 18:11:41 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 18:14:29 2018: Este es el mensaje del usuario:
+hola
+Thu Aug  2 18:14:29 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 18:14:37 2018: Este es el mensaje del usuario:
+dime la categoria de automovilismo
+Thu Aug  2 18:14:37 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 18:14:47 2018: Este es el mensaje del usuario:
+dime las categorias de automovilismo
+Thu Aug  2 18:14:47 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:16:28 2018: Este es el mensaje del usuario:
+hola
+Thu Aug  2 19:16:28 2018: Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:17:00 2018: Este es el mensaje del usuario:
+dime la categoria de la formula 1
+Thu Aug  2 19:17:00 2018: Este es el mensaje del ChatBot:
+['Vuelve a ingresar tu pregunta porfavor']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:17:21 2018: Este es el mensaje del usuario:
+dime las categorias de formula 1
+Thu Aug  2 19:17:21 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:18:13 2018: Este es el mensaje del usuario:
+dime las categorias de formula 1
+Thu Aug  2 19:18:13 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:20:33 2018: Este es el mensaje del usuario:
+hola
+Thu Aug  2 19:20:33 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:20:41 2018: Este es el mensaje del usuario:
+dime la estructura de la formula 1
+Thu Aug  2 19:20:41 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:21:30 2018: Este es el mensaje del usuario:
+dime la estructura de la formula 1
+Thu Aug  2 19:21:30 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:22:44 2018: Este es el mensaje del usuario:
+dime la estructura de la categoria de formula 1
+Thu Aug  2 19:22:44 2018: Este es el mensaje del ChatBot:
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:23:29 2018: Este es el mensaje del usuario:
+dime la estructura de subcategorias
+Thu Aug  2 19:23:29 2018: Este es el mensaje del ChatBot:
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:35:13 2018: Este es el mensaje del usuario:
+dimee las categorias de automovilismo
+Thu Aug  2 19:35:13 2018: Este es el mensaje del ChatBot:
+Monoplazas
+Rally
+Aceleracion
+Turismo
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Fri Aug  3 11:17:10 2018: Este es el mensaje del usuario:
+hola
+Fri Aug  3 11:17:10 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------

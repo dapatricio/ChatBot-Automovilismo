@@ -1,7 +1,7 @@
 
 import json
 
-from snips_prueba import pregunta, consulta_formula1, consulta_EquiposF1, consulta_CampeonesF1, consulta_Categorias, consulta_teamF1
+from snips_prueba import pregunta, consulta_formula1, consulta_EquiposF1, consulta_CampeonesF1, consulta_Categorias, consulta_teamF1, consulta_CategoriasF1
 
 import telebot
 import random
@@ -32,21 +32,30 @@ def echo_all(message):
     listaError = ["Valor ingresado invalido", "El valor que ingresaste no existe", "Ingresa un valor valido por favor", "Intenta nuevamente", "No entendi el valor"]
     listaSaludo = ["Hola, como puedo ayudarte", "Hola como estas, como puedo ayudarte", "Buenos dias, como puedo ayudarte", "Hola, como puedo ayudarte", "Saludos amigo, como puedo ayudarte"]
     listaDespedida = ["Nos vemos", "Adios", "Hasta otra ocacion", "Bye, hasta otro rato", "Nos vemos amigo", "hasta otro momento"]
+    listaErrorTeams = ["Quizas quisiste decir Pilotos de team Formula 1", "No querias decir los pilotos de algun team"]
     respuesta_json = pregunta(texto)
     respuesta_json = json.loads(respuesta_json)
 
     #print(type(respuesta_json))
+    print(texto)
+    respuesta_json = json.loads(pregunta(texto))
+    print(pregunta(texto))
+    print('\nRESPUESTA JSON: ')
     print(respuesta_json)
     try:
         if (len(respuesta_json['slots'][0]['entity'])!=1):
             intencion = respuesta_json['slots'][0]['entity'] #pilotos
+            probabilidad = respuesta_json['intent']['probability']
             formula1 = respuesta_json['slots'][0]['value']['value']
             equiposf1 = respuesta_json['slots'][0]['value']['value']
             campeonesf1 = respuesta_json['slots'][0]['value']['value']
             categorias = respuesta_json['slots'][0]['value']['value']
             teamF1 = respuesta_json['slots'][0]['value']['value']
+            categoriasF1 = respuesta_json['slots'][0]['value']['value']
             print("esta es la intencion:")
             print(intencion)
+            print("esta es la probabilidad:")
+            print(probabilidad)
 
             if (intencion=="formula1"):
                 print("entro a pilotos:")
@@ -98,6 +107,22 @@ def echo_all(message):
                 else:
                     respuesta = [random.choice(listaError)] 
 
+            elif (intencion=="categoriasF1" and probabilidad>0.5):
+                print("entro a categorias f1:")
+                print(categoriasF1)
+
+                lista_campeonesf1 = consulta_CategoriasF1(categoriasF1)
+                if(len(lista_categoriasF1)!=0 or len(categoriasF1)!=0) :
+
+                    respuesta = ""
+                    lista_nombres_categoriasF1 = []
+                        
+                    for i in lista_categoriasF1:
+                        lista_nombres_categoriasF1.append(i)
+                        respuesta = respuesta + i + '\n'
+
+                else:
+                    respuesta = [random.choice(listaError)]         
             elif (intencion=="categorias"):
                 print("entro a categorias:")
                 print(categorias)
@@ -113,7 +138,7 @@ def echo_all(message):
                 else:
                     respuesta = [random.choice(listaError)] 
 
-            elif (intencion=="teamF1"):
+            elif (intencion=="teamF1" and probabilidad>=0.7):
                 print("entro a teamF1:")
                 print(teamF1)
 
@@ -126,7 +151,7 @@ def echo_all(message):
                         lista_nombres_teamF1.append(i)
                         respuesta = respuesta + i + '\n'
                 else:
-                    respuesta = [random.choice(listaError)] 
+                    respuesta = [random.choice(listaErrorTeams)] 
 
             elif (intencion=="saludo"):
 
@@ -148,6 +173,7 @@ def echo_all(message):
 
     except:
         respuesta = [random.choice(lista)]
+
         ahora = time.strftime("%c")
 
         messageUsr = texto
@@ -159,8 +185,8 @@ def echo_all(message):
 
         file.write("\n"+"Usuario ID:\n")
         file.write(str(chat_id)+"\n")
-        file.write("\n"+ahora+" Este es el mensaje del usuario\n" + messageUsr)
-        file.write("\n"+ahora +" Este es el mensaje del ChatBot\n" + respuestaBot+"\n")
+        file.write("\n"+ahora+": Este es el mensaje del usuario\n" + messageUsr)
+        file.write("\n"+ahora +": Este es el mensaje del ChatBot\n" + respuestaBot+"\n")
         file.write("------------Separacion Mensajes--------------")
 
         file.close()
@@ -174,8 +200,8 @@ def echo_all(message):
 
     file.write("\n"+"Usuario ID:\n")
     file.write(str(chat_id)+"\n")
-    file.write("\n"+ahora+" Este es el mensaje del usuario:\n" + messageUsr)
-    file.write("\n"+ahora +" Este es el mensaje del ChatBot:\n" + respuestaBot+"\n")
+    file.write("\n"+ahora+": Este es el mensaje del usuario:\n" + messageUsr)
+    file.write("\n"+ahora +": Este es el mensaje del ChatBot:\n" + respuestaBot+"\n")
     file.write("------------Separacion Mensajes--------------")
 
     file.close()

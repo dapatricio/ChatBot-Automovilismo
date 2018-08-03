@@ -17,3 +17,67 @@ nada todo bien
 Mon Jul 30 09:55:17 2018 Este es el mensaje del ChatBot
 ['Dime de nuevo lo que pides']
 ------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 15:55:48 2018: Este es el mensaje del usuario
+jkjkikj
+Tue Jul 31 15:55:48 2018: Este es el mensaje del ChatBot
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:01:51 2018: Este es el mensaje del usuario
+dime los pilotos del team ferrari
+Tue Jul 31 16:01:51 2018: Este es el mensaje del ChatBot
+['No entendi la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:02:28 2018: Este es el mensaje del usuario
+dime los pilotos del team ferrari
+Tue Jul 31 16:02:28 2018: Este es el mensaje del ChatBot
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Jul 31 16:04:26 2018: Este es el mensaje del usuario
+hola
+Tue Jul 31 16:04:26 2018: Este es el mensaje del ChatBot
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:17:00 2018: Este es el mensaje del usuario
+dime la categoria de la formula 1
+Thu Aug  2 19:17:00 2018: Este es el mensaje del ChatBot
+['Vuelve a ingresar tu pregunta porfavor']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:20:41 2018: Este es el mensaje del usuario
+dime la estructura de la formula 1
+Thu Aug  2 19:20:41 2018: Este es el mensaje del ChatBot
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:21:30 2018: Este es el mensaje del usuario
+dime la estructura de la formula 1
+Thu Aug  2 19:21:30 2018: Este es el mensaje del ChatBot
+['Puedes repetir la pregunta']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Thu Aug  2 19:22:44 2018: Este es el mensaje del usuario
+dime la estructura de la categoria de formula 1
+Thu Aug  2 19:22:44 2018: Este es el mensaje del ChatBot
+['Dime de nuevo lo que pides']
+------------Separacion Mensajes--------------

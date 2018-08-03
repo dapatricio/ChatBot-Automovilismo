@@ -25,7 +25,6 @@ engine = SnipsNLUEngine.from_dict(engine_dict)
 def pregunta(phrase):
     r = engine.parse(unicode(phrase))
     return json.dumps(r, indent=2)
-    #print(json.dumps(r, indent=2))
 
 
 
@@ -78,7 +77,7 @@ def consulta_EquiposF1(equiposf1):
     #print(datos)
     return datos1   
 
-def consulta_CampeonesF1(campeonesf1):
+def consulta_CampeonesF1(campeonesf1): 
 
     sparql2 = SPARQLWrapper("http://localhost:8890/sparql/AutomovilismoNuevo")
     sparql2.setQuery("""
@@ -148,4 +147,29 @@ def consulta_teamF1(teamF1):
         #datos1.append(datos.split("example:")) #limpio el example:
     print("estos son los datos1")
     #print(datos)
-    return datos4         
+    return datos4   
+
+def consulta_CategoriasF1(categoriasF1):
+
+    sparql5 = SPARQLWrapper("http://localhost:8890/sparql/AutomovilismoNuevo")
+    sparql5.setQuery("""
+                select ?nombre
+                where
+                {
+                skos:catFormula1 skos:narrower ?categoria .
+                ?categoria rdfs:label ?nombre
+                }
+                    """)
+    # definition
+    sparql5.setReturnFormat(JSON)
+    results5 = sparql5.query().convert()
+
+    print(results5)
+    datos5 = []
+    #datos1 = []
+    for result5 in results5["results"]["bindings"]:
+        datos5.append(result5["nombre"]["value"])
+        #datos1.append(datos.split("example:")) #limpio el example:
+    print("estos son los datos5")
+    #print(datos)
+    return datos5       
