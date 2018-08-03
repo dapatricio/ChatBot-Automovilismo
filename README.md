@@ -2,7 +2,9 @@
 </br>
 <h2>Trabajo final sistemas basados en conocimiento abril 2018</h2>
 </br>
-Elaborado por: Daniel Patricio Peñarreta Feijoo, Nelson Oswaldo Piedra Pullaguari
+**Elaborado por:** </br>
+1. Daniel Patricio Peñarreta Feijoo.
+2. Nelson Oswaldo Piedra Pullaguari.
 </br>
-Universidad Tecnica Particular de Loja
+**Universidad Tecnica Particular de Loja**
 </br>
