@@ -4,9 +4,9 @@
 </br>
 <b>Elaborado por:</b> </br>
 <ul>
-	<li>1. Daniel Patricio Peñarreta Feijoo.</li>
-	<li>2. Nelson Oswaldo Piedra Pullaguari.</li>
+	<li>Daniel Patricio Peñarreta Feijoo.</li>
+	<li>Nelson Oswaldo Piedra Pullaguari.</li>
 </ul>
 </br>
-<b>Universidad Tecnica Particular de Loja</b>
+<h3><b>Universidad Tecnica Particular de Loja</b></h3>
 </br>
