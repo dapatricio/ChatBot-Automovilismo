@@ -1,0 +1,220 @@
+<skos:Automovilismo> <rdf:type> <skos:Concept> .
+<skos:Automovilismo> <skos:narrower> <skos:Monoplazas> .
+<skos:Automovilismo> <skos:narrower> <skos:Rally> .
+<skos:Automovilismo> <skos:narrower> <skos:Aceleracion> .
+<skos:Automovilismo> <skos:narrower> <skos:Turismo> .
+<skos:Automovilismo> <rdfs:label> "Automovilismo"@es .
+<skos:Monoplazas> <rdf:type> <skos:Concept> .
+<skos:Monoplazas> <skos:broader> <skos:Automovilismo> .
+<skos:Monoplazas> <rdfs:label> "Monoplazas"@es .
+<skos:Monoplazas> <skos:narrower> <skos:catIndycar> .
+<skos:Monoplazas> <skos:narrower> <skos:catFormula1> .
+<skos:catFormula1> <rdf:type> <skos:Concept> .
+<skos:catFormula1> <rdfs:label> "Categoria Formula 1"@es .
+<skos:catFormula1> <skos:narrower> <skos:Formula1> .
+<skos:catFormula1> <skos:related> <skos:catIndycar> .
+<skos:Formula1> <rdf:type> <skos:Concept> .
+<skos:Formula1> <skos:broader> <skos:catFormula1> .
+<skos:Formula1> <rdfs:label> "Formula 1"@es .
+<skos:Formula1> <skos:narrower> <skos:EquiposF1> .
+<skos:Formula1> <skos:related> <skos:Formula2> .
+<skos:Formula1> <skos:related> <skos:Formula3> .
+<skos:EquiposF1> <rdf:type> <skos:Concept> .
+<skos:EquiposF1> <skos:broader> <skos:Formula1> .
+<skos:EquiposF1> <rdfs:label> "Equipos Formula 1"@es .
+<skos:EquiposF1> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaFerrari> <skos:narrower> <skos:EquiposF1> .
+<skos:EscuderiaMercedes> <skos:narrower> <skos:EquiposF1> .
+<skos:EscuderiaRedBull> <skos:narrower> <skos:EquiposF1> .
+<skos:EscuderiaHass> <skos:narrower> <skos:EquiposF1> .
+<skos:EscuderiaMcLaren> <skos:narrower> <skos:EquiposF1> .
+<skos:NombreEquiposF1> <rdf:type> <skos:Concept> .
+<skos:NombreEquiposF1> <skos:broader> <skos:EquiposF1> .
+<skos:NombreEquiposF1> <rdfs:label> "Nombre Equipos de Formula 1"@es .
+<skos:EscuderiaFerrari> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaFerrari> <rdfs:label> "Team Ferrari" .
+<skos:EscuderiaFerrari> <skos:prefLabel> "TeamFerrari" .
+<skos:EscuderiaMercedes> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaMercedes> <rdfs:label> "Team Mercedes" .
+<skos:EscuderiaMercedes> <skos:prefLabel> "TeamMercedes" .
+<skos:EscuderiaRedBull> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaRedBull> <rdfs:label> "Team Red Bull" .
+<skos:EscuderiaRedBull> <skos:prefLabel> "TeamRedBull" .
+<skos:EscuderiaHass> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaHass> <rdfs:label> "Team Hass" .
+<skos:EscuderiaHass> <skos:prefLabel> "TeamHass" .
+<skos:EscuderiaMcLaren> <skos:narrower> <skos:NombreEquiposF1> .
+<skos:EscuderiaMcLaren> <rdfs:label> "Team McLaren" .
+<skos:EscuderiaMcLaren> <skos:prefLabel> "TeamMcLaren" .
+<skos:EquiposF1> <skos:narrower> <skos:PilotosEquiposF1> .
+<skos:PilotosEquiposF1> <rdf:type> <skos:Concept> .
+<skos:PilotosEquiposF1> <skos:broader> <skos:EquiposF1> .
+<skos:PilotosEquiposF1> <rdfs:label> "Nombre Pilotos de Formula 1"@es .
+<skos:PilotosEquiposF1> <skos:narrower> <skos:PilotosF1> . 
+<skos:SebastianVettel> <skos:narrower> <skos:EscuderiaFerrari> .
+<skos:FernandoAlonso> <skos:narrower> <skos:EscuderiaMcLaren> .
+<skos:KimmiRaikkonen> <skos:narrower> <skos:EscuderiaFerrari> .
+<skos:LuisHamilton> <skos:narrower> <skos:EscuderiaMercedes> .
+<Skos:DanielRichiardo> <skos:narrower> <skos:EscuderiaRedBull> .
+<skos:MaxVerstapen> <skos:narrower> <skos:EscuderiaRedBull> .
+<skos:KevinMagnussen> <skos:narrower> <skos:EscuderiaHass> .
+<skos:RomainGrosjean> <skos:narrower> <skos:EscuderiaHass> .
+<skos:PilotosF1> <rdf:type> <skos:Concept> .
+<skos:PilotosF1> <skos:broader> <skos:PilotosEquiposF1> .
+<skos:PilotosF1> <rdfs:label> "Nombre pilotos de Formula 1"@es .
+<skos:PilotosF1> <skos:related> <skos:PilotosF1Campeones> .
+<skos:SebastianVettel> <skos:narrower> <skos:PilotosF1> .
+<skos:SebastianVettel> <skos:related> <skos:PilotosF1Campeones> .
+<skos:SebastianVettel> <rdfs:label> "Sebastian Vettel".
+<skos:FernandoAlonso> <skos:narrower> <skos:PilotosF1> .
+<skos:FernandoAlonso> <skos:related> <skos:PilotosF1Campeones> .
+<skos:FernandoAlonso> <rdfs:label> "Fernando Alonso" .
+<skos:KimmiRaikkonen> <skos:narrower> <skos:PilotosF1> .
+<skos:KimmiRaikkonen> <skos:related> <skos:PilotosF1Campeones> .
+<skos:KimmiRaikkonen> <rdfs:label> "Kimmi Raikkonen" .
+<skos:LuisHamilton> <skos:narrower> <skos:PilotosF1> .
+<skos:LuisHamilton> <skos:related> <skos:PilotosF1Campeones> .
+<skos:LuisHamilton> <rdfs:label> "Luis Hamilton" .
+<skos:DanielRichiardo> <skos:narrower> <skos:PilotosF1> .
+<skos:DanielRichiardo> <rdfs:label> "Daniel Richiardo" .
+<skos:MaxVerstapen> <skos:narrower> <skos:PilotosF1> .
+<skos:MaxVerstapen> <rdfs:label> "Max Verstapen" .
+<skos:KevinMagnussen> <skos:narrower> <skos:PilotosF1> .
+<skos:KevinMagnussen> <rdfs:label> "Kevin Magnussen" .
+<skos:RomainGrosjean> <skos:narrower> <skos:PilotosF1> .
+<skos:RomainGrosjean> <rdfs:label> "Romain Grosjean" .
+<skos:PilotosEquiposF1> <skos:narrower> <skos:NacionalidadPilotosF1> .
+<skos:NacionalidadPilotosF1> <rdf:type> <skos:Concept> .
+<skos:NacionalidadPilotosF1> <skos:broader> <skos:PilotosEquiposF1> .
+<skos:NacionalidadPilotosF1> <rdfs:label> "Nacionalidad pilotos de Formula 1"@es .
+<skos:NacionalidadPilotosF1> <skos:related> <skos:NacionalidadPilotosF1Campeones> .
+<skos:SebastianVettel> <schema:nationality> <dbo:Germany> .
+<dbo:Germany> <rdfs:label> "Alemania" .
+<skos:FernandoAlonso> <schema:nationality> <dbo:Spain> .
+<dbo:Spain> <rdfs:label> "España" .
+<skos:KimmiRaikkonen> <schema:nationality> <dbo:Finland> .
+<dbo:Finland> <rdfs:label> "Finlandia" .
+<skos:LuisHamilton> <schema:nationality> <dbo:England> .
+<dbo:England> <rdfs:label> "Inglaterra" .
+<skos:DanielRichiardo> <schema:nationality> <dbo:Australia> .
+<dbo:Australia> <rdfs:label> "Australia" .
+<skos:MaxVerstapen> <schema:nationality> <dbo:Holand> .
+<dbo:Holand> <rdfs:label> "Holanda" .
+<skos:RomainGrosjean> <schema:nationality> <dbo:France> .
+<dbo:France> <rdfs:label> "Francia" .
+<skos:KevinMagnussen> <schema:nationality> <dbo:Denmark> .
+<dbo:Denmark> <rdfs:label> "Dinamarca" .
+<skos:EquiposF1> <skos:narrower> <skos:NacionalidadEquiposF1> .
+<skos:NacionalidadEquiposF1> <rdf:type> <skos:Concept> .
+<skos:NacionalidadEquiposF1> <skos:broader> <skos:EquiposF1> .
+<skos:NacionalidadEquiposF1> <rdfs:label> "Nacionalidad Equipos de Formula 1"@es .
+<skos:EscuderiaFerrari> <schema:nationality> <dbo:Italy> .
+<dbo:Italy> <rdfs:label> "Italia" .
+<skos:EscuderiaMercedes> <schema:nationality> <dbo:Germany> .
+<dbo:Germany> <rdfs:label> "Alemania" .
+<skos:EscuderiaRedBull> <schema:nationality> <dbo:Australia> .
+<dbo:Australia> <rdfs:label> "Australia" .
+<skos:EscuderiaHass> <schema:nationality> <dbo:UnitedStates> .
+<dbo:UnitedStates> <rdfs:label> "Estados Unidos" .
+<skos:EscuderiaMcLaren> <schema:nationality> <dbo:England> .
+<dbo:England> <rdfs:label> "Inglaterra" .
+<skos:Formula1> <skos:narrower> <skos:PilotosCampeonesF1> .
+<skos:Formula1> <skos:narrower> <skos:CircuitosF1> .
+<skos:catFormula1> <skos:narrower> <skos:Formula2> .
+<skos:Formula2> <rdf:type> <skos:Concept> .
+<skos:Formula2> <skos:broader> <skos:catFormula1> .
+<skos:Formula2> <rdfs:label> "Formula 2"@es .
+<skos:Formula2> <skos:related> <skos:Formula1> .
+<skos:Formula2> <skos:related> <skos:Formula3> .
+<skos:catFormula1> <skos:narrower> <skos:Formula3> .
+<skos:Formula3> <rdf:type> <skos:Concept> .
+<skos:Formula3> <skos:broader> <skos:catFormula1> .
+<skos:Formula3> <rdfs:label> "Formula 3"@es .
+<skos:Formula3> <skos:related> <skos:Formula2> .
+<skos:Formula3> <skos:related> <skos:Formula1> .
+<skos:Monoplazas> <skos:narrower> <skos:catFormulaE> .
+<skos:catFormulaE> <rdf:type> <skos:Concept> .
+<skos:catFormulaE> <skos:broader> <skos:Monoplazas> .
+<skos:catFormulaE> <rdfs:label> "Categoria Formula E"@es .
+<skos:catFormulaE> <skos:related> <skos:catFormula1> .
+<skos:catFormulaE> <skos:related> <skos:catIndycar> .
+<skos:catFormulaE> <rdf:type> <skos:Concept> .
+<skos:catIndy> <skos:narrower> <skos:Monoplazas> .
+<skos:catIndy> <rdfs:label> "Categoria Indy Car Series E"@es .
+<skos:catIndy> <skos:related> <skos:catFormula1> .
+<skos:catIndy> <skos:related> <skos:catFormulaE> .
+<skos:Rally> <rdf:type> <skos:Concept> .
+<skos:Rally> <skos:broader> <skos:Automovilismo> .
+<skos:Rally> <rdfs:label> "Rally"@es . 
+<skos:Rally> <skos:related> <skos:Turismo> .
+<skos:Rally> <skos:related> <skos:Monoplazas> .
+<skos:Rally> <skos:related> <skos:Aceleracion> .
+<skos:Rally> <skos:narrower> <skos:WRC> .
+<skos:Rally> <skos:narrower> <skos:WRC2> .
+<skos:Rally> <skos:narrower> <skos:WRCJunior> .
+<skos:WorldRallyChampionship> <skos:broader> <skos:Rally> .
+<skos:WRC> <rdfs:label> "Campeonato Mundial de Rally" .
+<skos:WRC> <skos:narrower> <skos:WorldRallyChampionship> .
+<skos:EquiposWRC> <skos:narrower> <skos:WRC> .
+<skos:EquipoCitroen> <skos:narrower> <skos:EquiposWRC> .
+<skos:EquipoCitroen> <schema:nationality> <dbo:France> .
+<skos:EquipoCitroen> <rdfs:label> "Equipo Citroen" .
+<skos:PilotosWRC> <skos:narrower> <skos:EquiposWRC> .
+<skos:KissMeke> <skos:narrower> <skos:EquipoCitroen> .
+<skos:KissMeke> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:KissMeke> <schema:nationality> <dbo:France> .
+<skos:KissMeke> <rdfs:label> "Kriss Meke" .
+<skos:CraigBreen> <skos:narrower> <skos:EquipoCitroen> .
+<skos:CraigBreen> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:CraigBreen> <schema:nationality> <dbo:France> .
+<skos:CraigBreen> <rdfs:label> "Craig Breen" .
+<skos:ScottMartin> <skos:narrower> <skos:EquipoCitroen> .
+<skos:ScottMartin> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:ScottMartin> <schema:nationality> <dbo:Germany> .
+<skos:ScottMartin> <rdfs:label> "Scott Martin" .
+<skos:EquipoVolksWagen> <skos:narrower> <skos:WRC> .
+<skos:EquipoVolksWagen> <schema:nationality> <dbo:Germany> .
+<skos:EquipoVolksWagen> <rdfs:label> "Equipo WolksWagen" .
+<skos:SebastianOgier> <skos:narrower> <skos:EquipoVolksWagen> .
+<skos:SebastianOgier> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:SebastianOgier> <schema:nationality> <dbo:France> .
+<skos:SebastianOgier> <rdfs:label> "Sebastian Oiger" .
+<skos:JariMattyLatvala> <skos:narrower> <skos:EquipoVolksWagen> .
+<skos:JariMattyLatvala> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:JariMattyLatvala> <schema:nationality> <dbo:Finland> .
+<skos:JariMattyLatvala> <rdfs:label> "Jari Matty Latvla" .
+<skos:MikkaAnttila> <skos:narrower> <skos:EquipoVolksWagen> .
+<skos:MikkaAnttila> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:MikkaAnttila> <schema:nationality> <dbo:Germany> .
+<skos:MikkaAnttila> <rdfs:label> "Mikka Anttila" .
+<skos:EquipoFord> <skos:narrower> <skos:WRC> .
+<skos:EquipoFord> <schema:nationality> <dbo:UnitedStates> .
+<skos:EquipoFord> <rdfs:label> "Equipo Ford" .
+<skos:OttTanak> <skos:narrower> <skos:EquipoFord> .
+<skos:OttTanak> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:OttTanak> <schema:nationality> <dbo:Finland> .
+<skos:OttTanak> <rdfs:label> "Ott Tanak" .
+<skos:RaigoMolder> <skos:narrower> <skos:EquipoFord> .
+<skos:RaigoMolder> <skos:narrower> <skos:NombrePilotosWRC> .
+<skos:RaigoMolder> <schema:nationality> <dbo:Holand> .
+<skos:RaigoMolder> <rdfs:label> "Raigo Molder" .
+<skos:WRC2> <skos:narrower> <skos:WorldRallyChampionship> .
+<skos:WRC2> <rdfs:label> "Campeonato Mundial de Rally 2" .
+<skos:WRC2> <skos:related> <skos:WRC> .
+<skos:WRC2> <skos:related> <skos:WRCJunior> .
+<skos:WRCJunior> <skos:narrower> <skos:WorldRallyChampionship> .
+<skos:WRCJunior> <rdfs:label> "Campeonato Mundial de Rally Junior" .
+<skos:WRCJunior> <skos:related> <skos:WRC2> .
+<skos:WRCJunior> <skos:related> <skos:WRC> .
+<skos:Aceleracion> <rdf:type> <skos:Concept> .
+<skos:Aceleracion> <skos:broader> <skos:Automovilismo> .
+<skos:Aceleracion> <rdfs:label> "Aceleracion"@es .
+<skos:Aceleracion> <skos:related> <skos:Turismo> .
+<skos:Aceleracion> <skos:related> <skos:Rally> .
+<skos:Aceleracion> <skos:related> <skos:Monoplazas> .
+<skos:Turismo> <rdf:type> <skos:Concept> .
+<skos:Turismo> <skos:broader> <skos:Automovilismo> .
+<skos:Turismo> <rdfs:label> "Turismo"@es .
+<skos:Turismo> <skos:related> <skos:Aceleracion> .
+<skos:Turismo> <skos:related> <skos:Rally> .
+<skos:Turismo> <skos:related> <skos:Monoplazas> .
