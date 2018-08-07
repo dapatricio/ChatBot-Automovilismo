@@ -707,3 +707,80 @@ hola
 Fri Aug  3 11:17:10 2018: Este es el mensaje del ChatBot:
 ['Hola, como puedo ayudarte']
 ------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Fri Aug  3 11:19:44 2018: Este es el mensaje del usuario:
+hola
+Fri Aug  3 11:19:44 2018: Este es el mensaje del ChatBot:
+['Buenos dias, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:49:17 2018: Este es el mensaje del usuario:
+hola
+Tue Aug  7 15:49:17 2018: Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:50:58 2018: Este es el mensaje del usuario:
+hola
+Tue Aug  7 15:50:58 2018: Este es el mensaje del ChatBot:
+['Hola, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:51:03 2018: Este es el mensaje del usuario:
+hola
+Tue Aug  7 15:51:03 2018: Este es el mensaje del ChatBot:
+['Hola como estas, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:51:06 2018: Este es el mensaje del usuario:
+hola
+Tue Aug  7 15:51:06 2018: Este es el mensaje del ChatBot:
+['Saludos amigo, como puedo ayudarte']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:53:38 2018: Este es el mensaje del usuario:
+dime los pilotos del team ferrari
+Tue Aug  7 15:53:38 2018: Este es el mensaje del ChatBot:
+Sebastian Vettel
+Kimmi Raikkonen
+
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:53:45 2018: Este es el mensaje del usuario:
+dime el color del team ferrari
+Tue Aug  7 15:53:45 2018: Este es el mensaje del ChatBot:
+['Indicame la pregunta nuevamente']
+------------Separacion Mensajes--------------
+Usuario ID:
+484052742
+
+Tue Aug  7 15:54:47 2018: Este es el mensaje del usuario:
+dime los equipos de formula 1
+Tue Aug  7 15:54:47 2018: Este es el mensaje del ChatBot:
+Equipos Formula 1
+Escuderia Ferrari
+Team Ferrari
+Escuderia Mercedes
+Team Mercedes
+Escuderia Red Bull
+Team Red Bull
+Escuderia Hass
+Team Hass
+Escuderia McLaren
+Team McLaren
+
+------------Separacion Mensajes--------------

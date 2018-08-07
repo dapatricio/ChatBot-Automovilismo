@@ -1,20 +1,20 @@
-Dime las [categorias:categorias](categorias) de automovilismo
-Dame las [categorias:categorias](categorias) de automovilismo
-Dime los nombres de las [categorias:categorias](categorias) de automovilismo
-Dame los nombres de las [categorias:categorias](categorias) de automovilismo
-Nombres de las [categorias:categorias](categorias) de automovilismo
-Nombre las [categorias:categorias](categorias) de automovilismo
-Que [categorias:categorias](categorias) hay de automovilismo
-Que [categorias:categorias](categorias) existen de automovilismo
-Nombrame las [categorias:categorias](categorias) de automovilismo
-Cuales son los nombres de las [categorias:categorias](categorias) de automovilismo
-Que nombres tienen las [categorias:categorias](categorias) de automovilismo
-Como se llaman las [categorias:categorias](categorias) de automovilismo
-Indique los nombres de las [categorias:categorias](categorias) de automovilismo
-Mencione los nombres de las [categorias:categorias](categorias) de automovilismo
-Mencione las [categorias:categorias](categorias) de automovilismo
-Explicame las [categorias:categorias](categorias) de automovilismo
-Explicame los nombres de las [categorias:categorias](categorias) de automovilismo
-Muestrame el nombre de las [categorias:categorias](categorias) de automovilismo
-Muestrame cuales son las [categorias:categorias](categorias) de automovilismo
-Cuales son las [categorias:categorias](categorias) de automovilismo
+Dime la estructura de [subcategorias:subcategorias](subcategorias)
+Dame la estructura de [subcategorias:subcategorias](subcategorias)
+Dime los nombres de la estructura de [subcategorias:subcategorias](subcategorias)
+Dame los nombres de la estructura de [subcategorias:subcategorias](subcategorias)
+Nombres de las categorias de [subcategorias:subcategorias](subcategorias)
+Nombre las categorias de [subcategorias:subcategorias](subcategorias)
+Que categorias hay de [subcategorias:subcategorias](subcategorias)
+Que categorias existen de [subcategorias:subcategorias](subcategorias)
+Nombrame las categorias de [subcategorias:subcategorias](subcategorias)
+Cuales son los nombres de las categorias de [subcategorias:subcategorias](subcategorias)
+Que nombres tienen las categorias de [subcategorias:subcategorias](subcategorias)
+Como se llaman las categorias de [subcategorias:subcategorias](subcategorias)
+Indique los nombres de las categorias de [subcategorias:subcategorias](subcategorias)
+Mencione los nombres de las categorias de [subcategorias:subcategorias](subcategorias)
+Mencione las categorias de [subcategorias:subcategorias](subcategorias)
+Explicame las categorias de [subcategorias:subcategorias](subcategorias)
+Explicame los nombres de las categorias de [subcategorias:subcategorias](subcategorias)
+Muestrame el nombre de las categorias de [subcategorias:subcategorias](subcategorias)
+Muestrame cuales son las categorias de [subcategorias:subcategorias](subcategorias)
+Cuales son las categorias de [subcategorias:subcategorias](subcategorias)
